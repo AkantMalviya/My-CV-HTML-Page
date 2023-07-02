@@ -1,2 +1,2 @@
 # My-CV-HTML-Page
-A resume page through html
+My Personal Portfolio using HTML & CSS 
